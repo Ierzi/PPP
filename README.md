@@ -30,3 +30,8 @@ Use the "Next" and "Previous" buttons to skip to the next or previous song in yo
 * Method 2
 You can import the main file in your own program: `import playlistlistener`
 Then, you can create a window by copying this program:
+`python
+root = tk.Tk()
+app = PlaylistListener(root)
+root.mainloop()
+`
