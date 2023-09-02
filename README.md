@@ -1,8 +1,15 @@
-### PPP
-PPP (Python Playlist Player) is a open-source project by Ierzi, created in 30/08/2023 (dd/mm/aa)
+# PPP
+Python Playlist Player (PPP) is a simple Python application that allows you to listen to musics offline on your computer
+# Versions
+
+None
 
 # Requirements
-You must install Pygame by doing `pip install pygame` 
-# How to use it?
-After downloading the repository, import the main file using `import ppp`
 
+Clone the repository on your computer:
+`git clone https://github.com/Ierzi/PPP.git`
+
+Install the required Python librairy:
+`pip install pygame`
+
+Create a folder with all of your songs in the mp3 format.
