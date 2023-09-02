@@ -1,4 +1,4 @@
-# PPP
+### PPP
 PPP (Python Playlist Player) is a open-source project by Ierzi, created in 30/08/2023 (dd/mm/aa)
 
 # Requirements
