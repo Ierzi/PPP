@@ -18,7 +18,7 @@ Create a folder with all of your songs in the mp3 format.
 
 * Method 1
 Run the python script:
-`python ppp.py`
+`python playlistlistener.py`
 
 Click the "Load Playlist" button to start. The program will ask you to select a folder (your playlist).
 Then click on Play to start playing the song
