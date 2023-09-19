@@ -28,8 +28,11 @@ Want some variety? Click the "Shuffle" button to mix up your playlist and start 
 Use the "Next" and "Previous" buttons to skip to the next or previous song in your playlist.
 
 * Method 2
+
 You can import the main file in your own program: `import playlistlistener`
+
 Then, you can create a window by copying this program:
+
 `python
 root = tk.Tk()
 app = PlaylistListener(root)
