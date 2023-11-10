@@ -33,7 +33,7 @@ You can import the main file in your own program: `import playlistlistener`
 
 Then, you can create a window by copying this program:
 
-`root = tk.Tk()
-app = PlaylistListener(root)
-root.mainloop()
-`
+`root = tk.Tk()´
+´app = PlaylistListener(root)´
+´root.mainloop()´
+
